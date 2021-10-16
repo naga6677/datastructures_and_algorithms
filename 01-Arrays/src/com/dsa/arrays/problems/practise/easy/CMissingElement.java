@@ -1,6 +1,6 @@
-package com.dsa.arrays.problems.practise;
+package com.dsa.arrays.problems.practise.easy;
 
-public class EasyCMissingElement {
+public class CMissingElement {
 
 	public int missingNumber(int[] nums) {
 
@@ -29,7 +29,7 @@ public class EasyCMissingElement {
 
 	public static void main(String[] args) {
 
-		EasyCMissingElement tEasyCMissingElement = new EasyCMissingElement();
+		CMissingElement tEasyCMissingElement = new CMissingElement();
 
 		int[] tArray = { 0, 2, 1, 3, 5, 6 };
 
