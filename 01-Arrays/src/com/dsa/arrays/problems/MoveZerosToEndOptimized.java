@@ -1,6 +1,6 @@
-package com.dsa.arrays.problems.practise.easy;
+package com.dsa.arrays.problems;
 
-public class AMoveZerosToEndOptimized {
+public class MoveZerosToEndOptimized {
 
 	public int[] moveZeroes(int[] nums) {
 

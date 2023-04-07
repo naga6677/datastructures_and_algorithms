@@ -1,4 +1,4 @@
-package com.dsa.arrays.problems.practise.easy;
+package com.dsa.arrays.problems;
 
 /**
  * Given an array of integers, update every element with multiplication of

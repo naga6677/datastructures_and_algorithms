@@ -1,6 +1,6 @@
-package com.dsa.arrays.problems.practise.easy;
+package com.dsa.arrays.problems;
 
-public class BZigzagFashion {
+public class ZigzagFashion {
 
 	public int[] zigzag(int[] arr) {
 
@@ -36,7 +36,7 @@ public class BZigzagFashion {
 	}
 
 	public static void main(String[] args) {
-		BZigzagFashion tZigzagFashion = new BZigzagFashion();
+		ZigzagFashion tZigzagFashion = new ZigzagFashion();
 		
 		int[] tArray = { 4, 3, 7, 8, 6, 2, 1 };
 		tArray = tZigzagFashion.zigzag(tArray);

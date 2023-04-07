@@ -1,4 +1,4 @@
-package com.dsa.arrays.problems.practise.easy;
+package com.dsa.arrays.problems;
 
 /**
  * given an array replace every element by greater element on right side (not

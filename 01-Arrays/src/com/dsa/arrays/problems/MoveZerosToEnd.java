@@ -1,6 +1,6 @@
-package com.dsa.arrays.problems.practise.easy;
+package com.dsa.arrays.problems;
 
-public class AMoveZerosToEnd {
+public class MoveZerosToEnd {
 
 	public int[] moveZeroes(int[] nums) {
 
@@ -35,7 +35,7 @@ public class AMoveZerosToEnd {
 	}
 
 	public static void main(String[] args) {
-		AMoveZerosToEnd tMoveZerosToEnd = new AMoveZerosToEnd();
+		MoveZerosToEnd tMoveZerosToEnd = new MoveZerosToEnd();
 		int[] tArray = { 4, 2, 4, 0, 0, 3, 0, 5, 1, 0 };
 
 		tArray = tMoveZerosToEnd.moveZeroes(tArray);
