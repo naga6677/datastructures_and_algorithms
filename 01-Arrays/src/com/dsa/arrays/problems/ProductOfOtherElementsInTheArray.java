@@ -12,7 +12,7 @@ package com.dsa.arrays.problems;
  * 
  * Input: nums = [1,2,3,4] Output: [24,12,8,6]
  * 
- * @author IND
+ * @author Naga Venkateswara Rao Ede
  *
  */
 public class ProductOfOtherElementsInTheArray {

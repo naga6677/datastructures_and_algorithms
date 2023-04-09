@@ -10,7 +10,7 @@ package com.dsa.arrays.problems;
  * 
  * Output: arr[] = {6, 8, 15, 24, 30}
  * 
- * @author IND
+ * @author Naga Venkateswara Rao Ede
  *
  */
 public class ProductArray {

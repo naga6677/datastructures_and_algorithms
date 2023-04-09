@@ -12,7 +12,7 @@ package com.dsa.arrays.problems;
  * 
  * https://onedrive.live.com/view.aspx?resid=2A3D3FAF1E1EB503!138&authkey=!APBs2BzGHCW4e08
  * 
- * @author IND
+ * @author Naga Venkateswara Rao Ede
  *
  */
 public class TrappingRainWater {

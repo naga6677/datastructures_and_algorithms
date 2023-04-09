@@ -8,7 +8,7 @@ package com.dsa.arrays.problems;
  * 
  * O/P: 17 5 5 5 2 -1
  * 
- * @author IND
+ * @author Naga Venkateswara Rao Ede
  *
  */
 public class ReplaceElementsWithGreaterElement {

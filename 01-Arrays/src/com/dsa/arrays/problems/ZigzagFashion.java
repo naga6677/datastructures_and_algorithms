@@ -1,5 +1,10 @@
 package com.dsa.arrays.problems;
 
+/**
+ * 
+ * @author Naga Venkateswara Rao Ede
+ *
+ */
 public class ZigzagFashion {
 
 	public int[] zigzag(int[] arr) {
@@ -37,7 +42,7 @@ public class ZigzagFashion {
 
 	public static void main(String[] args) {
 		ZigzagFashion tZigzagFashion = new ZigzagFashion();
-		
+
 		int[] tArray = { 4, 3, 7, 8, 6, 2, 1 };
 		tArray = tZigzagFashion.zigzag(tArray);
 

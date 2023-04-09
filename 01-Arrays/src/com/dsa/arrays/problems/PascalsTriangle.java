@@ -10,7 +10,7 @@ import java.util.List;
  * 
  * Output: [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
  * 
- * @author IND
+ * @author Naga Venkateswara Rao Ede
  *
  */
 public class PascalsTriangle {
