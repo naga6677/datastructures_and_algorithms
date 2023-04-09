@@ -1,8 +1,5 @@
 package com.dsa.arrays.problems;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * https://leetcode.com/problems/majority-element/
  * 
