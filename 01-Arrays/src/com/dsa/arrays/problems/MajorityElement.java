@@ -10,7 +10,7 @@ package com.dsa.arrays.problems;
  * 
  * Input: nums = [3,2,3] Output: 3
  * 
- * @author IND
+ * @author Naga Venkateswara Rao Ede
  *
  */
 public class MajorityElement {

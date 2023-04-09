@@ -13,7 +13,7 @@ package com.dsa.arrays.problems;
  * Note that buying on day 2 and selling on day 1 is not allowed because you
  * must buy before you sell.
  * 
- * @author IND
+ * @author Naga Venkateswara Rao Ede
  *
  */
 public class BestTimeToBuyAndSellStock {
