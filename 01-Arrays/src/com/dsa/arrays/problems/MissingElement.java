@@ -1,5 +1,10 @@
 package com.dsa.arrays.problems;
 
+/**
+ * 
+ * @author Naga Venkateswara Rao Ede
+ *
+ */
 public class MissingElement {
 
 	public int missingNumber(int[] nums) {
